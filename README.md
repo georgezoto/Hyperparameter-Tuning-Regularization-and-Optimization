@@ -15,6 +15,6 @@ Hyperparameter Tuning Regularization and Optimization repository for all project
 
 
 # Links:  
-https://www.coursera.org/learn/deep-neural-network/
+https://www.coursera.org/learn/deep-neural-network/  
 https://www.coursera.org/specializations/deep-learning  
 https://www.deeplearning.ai  
