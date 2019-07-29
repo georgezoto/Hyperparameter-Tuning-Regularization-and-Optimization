@@ -13,10 +13,13 @@ Hyperparameter Tuning Regularization and Optimization repository for all project
 
 ![alt text](images/Hyperparameter-Tuning-Regularization-and-Optimization-1.png)
 
+![alt text](images/Hyperparameter-Tuning-Regularization-and-Optimization-Presentation.png)
+
 ![alt text](images/Hyperparameter-Tuning-Regularization-and-Optimization-2.png)
 
 # Links:  
 https://www.coursera.org/learn/deep-neural-network/  
 https://www.coursera.org/specializations/deep-learning  
 https://www.deeplearning.ai   
+https://docs.google.com/presentation/d/1b6I2Ry0WVyt0hIGTr2veZhO00lGJzKi6AmFbZ7lQ1-w/edit?usp=sharing  
 https://www.coursera.org/account/accomplishments/verify/95EM59WL8QAD   
