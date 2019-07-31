@@ -15,7 +15,7 @@ Hyperparameter Tuning Regularization and Optimization repository for all project
 
 ![alt text](images/Hyperparameter-Tuning-Regularization-and-Optimization-Presentation.png)
 
-![alt text](images/Hyperparameter-Tuning-Regularization-and-Optimization-2.png)
+![alt text](images/Hyperparameter-Tuning-Regularization-and-Optimization-2a.png)
 
 ![alt text](images/Hyperparameter-Tuning-Regularization-and-Optimization-3.png)
 
